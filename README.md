@@ -1,6 +1,6 @@
 # Hi there, I'm Phani Chandra Sekhar Avagaddi 👋
 
-## Senior Engineering Manager | AI/ML Enthusiast
+## Senior Engineering Manager | AI/ML Engineer | Data Scientist (Beginner) | Career Consultant | AIML Mentoring
 
 🚀 With 21 years of IT expertise, I specialize in spearheading and delivering complex software products and services across diverse IT landscapes.
 
@@ -36,13 +36,13 @@ ASP.NET Core, MVC, Angular, React, NodeJS
 SQL Server, MySQL, MongoDB
 
 ### AI/ML Skills
-Gen AI, OpenAI (ChatGPT 3.5, 4, 4o), Prompt Engineering, Machine Learning, Deep Learning, Neural Networks (CNN, RNN, Time Series), Natural Language Processing (NLP), Speech Recognition, AI Agentic frameworks (CrewAI, AutoGen)
+Gen AI, OpenAI (ChatGPT 3.5, 4, 4o), Prompt Engineering, Machine Learning, Deep Learning, Neural Networks (CNN, RNN, Time Series), Natural Language Processing (NLP), Speech Recognition, AI Agentic frameworks (CrewAI, AutoGen), Langchain, Langraph, Agentic Workflows
 
 ### Cloud Skills
 Microsoft Azure, Amazon SageMaker, Azure DevOps
 
 ### Tools
-VS Code, Streamlit, Gradio, GitHub, SVN, Jira, GitLab, Visual Studio, SQL Server, MySQL, SQL Azure, MongoDB
+VS Code, Streamlit, Gradio, GitHub, SVN, Jira, GitLab, Visual Studio, SQL Server, MySQL, SQL Azure, MongoDB, Supabase, PostgresQL
 
 ## 🏆 Certifications & Awards
 - PG Program in AI & ML from IIIT Hyderabad
@@ -62,10 +62,11 @@ VS Code, Streamlit, Gradio, GitHub, SVN, Jira, GitLab, Visual Studio, SQL Server
 - [AIML Portfolio](https://portfolios.talentsprint.com/AIML/223602)
 
 ## 📌 Featured Projects
-1. Internal Chatbot based on LEMMA (Feb'24 to Apr'24)
-2. Automatic Speech Recognition (ASR) - Capstone Project (Jun'23 to Aug'23)
-3. Envoy Global VISA Immigration platform (Dec'22 to Present)
-4. Brokerage Operations Support System (UPS, EU & APAC) (Feb'21 to Nov'22)
-5. Flight Forward (UPS, US) (Sep'20 to Jan'21)
+1. Resume Analyzer based on GenAI(In progress)
+2. Internal Chatbot based on RAG and open LLM (Feb'24 to Apr'24)
+3. Automatic Speech Recognition (ASR) - Capstone Project (Jun'23 to Aug'23)
+4. Envoy Global VISA Immigration platform (Dec'22 to Present)
+5. Brokerage Operations Support System (UPS, EU & APAC) (Feb'21 to Nov'22)
+6. Flight Forward (UPS, US) (Sep'20 to Jan'21)
 
 Feel free to reach out for collaborations or just a chat about technology and innovation!
