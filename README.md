@@ -1,48 +1,53 @@
 # Hi there, I'm Phani Chandra Sekhar Avagaddi 👋
 
-## Senior Engineering Manager | AI/ML Engineer | Data Scientist (Beginner) | Career Consultant | AIML Mentoring
+## Senior Engineering Manager | AI/ML Mentor | Data Science Consultant | Career Coach
 
-🚀 With 21 years of IT expertise, I specialize in spearheading and delivering complex software products and services across diverse IT landscapes.
+🚀 With 22+ years of IT experience, I am passionate about leveraging AI and data-driven solutions to solve complex business challenges. My journey includes developing innovative software systems, mentoring 100+ professionals in AI/ML, and leading transformative AI integration projects.
 
-🎓 Recently completed a specialized post-graduate program in AI and ML from IIIT Hyderabad.
+🎓 Certified in AI and ML from IIIT Hyderabad, I specialize in implementing cutting-edge machine learning models, AI agents, and enterprise software solutions.
 
-🤖 Involved in a capstone project on Automatic Speech Recognition (ASR) for speech-to-text model.
+🤖 Currently engaged in AI consulting projects that redefine automation and efficiency for industries like logistics, real estate, and travel.
 
 ## 🔭 I'm currently working on
-- Leading the development of a VISA Immigration platform at Envoy Global
-- Building AI Agents using CrewAI and other agentic frameworks
-- Exploring advanced AI/ML applications in software development
+- Training & Mentoring: Empowering 100+ learners in AI/ML fundamentals, project building, and career transformation.
 
 ## 🌱 I'm currently learning
-- Advanced AI/ML techniques and their practical applications in enterprise software
-- Cutting-edge cloud technologies and their integration with AI systems
+- Advanced AI/ML tools like generative AI frameworks, agentic systems (LangChain, CrewAI).
+- Best practices in enterprise-level AI deployment using cloud platforms (Azure, AWS).
 
 ## 💼 Professional Experience
-- Senior Engineering Manager at Envoy Global (Nov 2022 - Present)
-- Sr Technical Project Manager at Pactera Edge (May 2019 - Nov 2022)
-- Group Manager (TPM) at DST Worldwide Services (Jun 2017 - May 2019)
-- Technical Project Manager at Infosys Ltd (Mar 2015 - May 2017)
-- Product Development Lead at Bostonlogix India Pvt Ltd (Dec 2006 - Feb 2015)
+- Freelance AI Consultant & Trainer (Aug 2024 – Present)
+- Senior Engineering Manager at Envoy Global (Dec 2022 – Aug 2024)
+- Senior Technical Project Manager at Pactera Edge (May 2019 – Nov 2022)
+- Group Manager (TPM) at DST Worldwide Services (Jun 2017 – May 2019)
+- Technical Project Manager at Infosys Ltd (Mar 2015 – May 2017)
+- Product Development Lead at Bostonlogix India Pvt Ltd (Dec 2006 – Feb 2015)
 
 ## 🛠 Skills
 
 ### Programming Languages
-C#, Python, JavaScript, HTML, SQL, jQuery
+C#, Python, JavaScript, SQL, TypeScript
 
-### Frameworks
-ASP.NET Core, MVC, Angular, React, NodeJS
+### AI/ML Frameworks:
+TensorFlow, PyTorch, LangChain, Transformers, CrewAI, Pydantic
+
+### Data Science Tools:
+Pandas, NumPy, Matplotlib, SageMaker
+
+### Cloud & DevOps:
+Azure, AWS, Docker, Kubernetes
+
+### Other Technologies:
+ASP.NET Core, Angular, React, NodeJS
 
 ### Databases
 SQL Server, MySQL, MongoDB
-
-### AI/ML Skills
-Gen AI, OpenAI (ChatGPT 3.5, 4, 4o), Prompt Engineering, Machine Learning, Deep Learning, Neural Networks (CNN, RNN, Time Series), Natural Language Processing (NLP), Speech Recognition, AI Agentic frameworks (CrewAI, AutoGen), Langchain, Langraph, Agentic Workflows
 
 ### Cloud Skills
 Microsoft Azure, Amazon SageMaker, Azure DevOps
 
 ### Tools
-VS Code, Streamlit, Gradio, GitHub, SVN, Jira, GitLab, Visual Studio, SQL Server, MySQL, SQL Azure, MongoDB, Supabase, PostgresQL
+Cursor, VS Code, Streamlit, Gradio, GitHub, SVN, Jira, GitLab, Visual Studio, SQL Server, MySQL, SQL Azure, MongoDB, Supabase, PostgresQL
 
 ## 🏆 Certifications & Awards
 - PG Program in AI & ML from IIIT Hyderabad
@@ -62,11 +67,19 @@ VS Code, Streamlit, Gradio, GitHub, SVN, Jira, GitLab, Visual Studio, SQL Server
 - [AIML Portfolio](https://portfolios.talentsprint.com/AIML/223602)
 
 ## 📌 Featured Projects
-1. Resume Analyzer based on GenAI(In progress)
-2. Internal Chatbot based on RAG and open LLM (Feb'24 to Apr'24)
-3. Automatic Speech Recognition (ASR) - Capstone Project (Jun'23 to Aug'23)
-4. Envoy Global VISA Immigration platform (Dec'22 to Present)
-5. Brokerage Operations Support System (UPS, EU & APAC) (Feb'21 to Nov'22)
-6. Flight Forward (UPS, US) (Sep'20 to Jan'21)
+Invoice Reconciliation (In progress)
+AI-powered tool to compare invoices with purchase orders, ensuring 99% accuracy.
+
+TourBuddie (In progress)
+A VR and AI-powered travel assistant for immersive experiences and better travel recommendations.
+
+UKRealtyAnalyzer (In progress)
+AI platform for end-to-end real estate investment analysis, planning, and construction management.
+
+Automatic Speech Recognition (ASR) (Jun'23 – Aug'23)
+Capstone project using deep learning and the KALDI framework for speech-to-text conversion.
+
+Envoy Global VISA Immigration Platform (Dec'22 – Aug'24)
+Led AI integration for enterprise-level automation and efficiency improvement.
 
 Feel free to reach out for collaborations or just a chat about technology and innovation!
